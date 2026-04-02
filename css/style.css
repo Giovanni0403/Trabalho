@@ -41,6 +41,14 @@ h1{
     font-family: 'Montserrat', sans-serif;
 }
 
+h2{
+background-color: black;
+color: white;
+font-size: 40px;
+font-weight: normal;
+font-style: oblique;
+}
+
 p{
     font-size: 25px;
     font-weight: normal;
