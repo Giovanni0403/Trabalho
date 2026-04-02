@@ -28,3 +28,30 @@ header nav ul li a{
     color: #fff;
     text-decoration: none;
 }
+
+body{ background-image: url(img/fiap.png);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: contain;
+}
+
+h1{
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-size: 25px;
+    font-weight: normal;
+    font-style: oblique;
+    font-variant: small-caps;
+    text-align: justify;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px #82c3ff;
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-indent: 30px;
+}
