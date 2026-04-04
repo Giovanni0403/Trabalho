@@ -36,6 +36,8 @@ body{ background-image: url(img/fiap.png);
     background-size: contain;
 }
 
+
+
 h1{
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
     font-family: 'Montserrat', sans-serif;
@@ -57,7 +59,7 @@ p{
     text-align: justify;
     text-transform: capitalize;
     text-decoration: underline;
-    text-shadow: 1px 1px 1px #82c3ff;
+    text-shadow: 1px 1px 1px yellow;
     line-height: 20px;
     letter-spacing: 1px;
     word-spacing: 1px;
