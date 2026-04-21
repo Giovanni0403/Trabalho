@@ -44,11 +44,18 @@ ul{
 }
 
 a{
-    font-size: 15px;
-    
+    font-size: 25px;
 }
 
 img{
     width: 100px;
     height:100px;
+}
+
+.pele{ 
+    height: auto;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
