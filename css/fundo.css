@@ -6,7 +6,7 @@
 }
 
 .fundo__container{
-    max-width: 1200px;   /* largura máxima do bloco de conteúdo */
+    max-width: auto;   /* largura máxima do bloco de conteúdo */
     margin: 0 auto;     /* centraliza horizontalmente */
     padding: 20px;
     display: flex;

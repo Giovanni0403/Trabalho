@@ -10,7 +10,7 @@
 
 :root{
   
-    --bg-dark : #383838; /* Cor padrão de fundo */
+    --bg-dark : #000000; /* Cor padrão de fundo */
     --bg-dark-med : #45494d; /* Cor base de sombreamento */
     --primary:#424632; /* Cor primária */
     --primary-inv:#76786c; /* Cor primária hover */
@@ -70,7 +70,7 @@ a{
 
 .card_container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);    /* sempre 2 colunas */
+  grid-template-columns: repeat(3, 1fr);    /* sempre 2 colunas */
   gap: 20px;                                /* espaço entre os cards */
   justify-items: center;                    /* centraliza os cards em cada coluna */
 }
