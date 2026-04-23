@@ -16,7 +16,7 @@
     align-content: space-around;
 
     /* OVERLAY */
-    background-image: linear-gradient(rgba(98, 98, 98, 0.261)) , url("../img/fundo_pgi.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.261)) , url("../img/fundo_pgi.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@
 }
 
 .fundo__btn{
-    color:  rgb(0, 221, 255);
+    color:  rgb(0, 123, 255);
 }
 
 footer{
