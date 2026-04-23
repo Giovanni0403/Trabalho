@@ -6,10 +6,9 @@
 }
 
 .fundo__container{
-    width: 100%;
-    height: 100%;
-    padding: 1%;
-
+    max-width: 1200px;   /* largura máxima do bloco de conteúdo */
+    margin: 0 auto;     /* centraliza horizontalmente */
+    padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
