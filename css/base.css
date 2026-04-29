@@ -69,10 +69,15 @@ a{
 }
 
 .card_container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);    /* sempre 2 colunas */
-  gap: 20px;                                /* espaço entre os cards */
-  justify-items: center;                    /* centraliza os cards em cada coluna */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);    /* sempre 2 colunas */
+    gap: 20px;                                /* espaço entre os cards */
+    justify-items: center;                   /* centraliza os cards em cada coluna */
+}
+
+.card:hover{
+    box-shadow: 1px 1px 20px rgb(0, 255, 0);  
+
 }
 
 .card img {
@@ -108,4 +113,14 @@ p.fundo__btn{
 
 p{
     margin-bottom: 20px;
+}
+
+.transferencia{
+    color: rgb(0, 110, 255);
+    font-size: 6rem;
+}
+
+.liga{
+    color: rgb(0, 255, 0);
+    font-size: 4rem;
 }
