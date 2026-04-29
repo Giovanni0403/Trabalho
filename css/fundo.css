@@ -26,6 +26,7 @@
     font-size: var(--titulo-main);
     color: var(--text-title);
     text-transform: uppercase;
+    font-size: 5.0rem;
 }
 
 .fundo__text{
